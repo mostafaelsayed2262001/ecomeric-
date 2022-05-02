@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.5.4" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.3" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+4" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.12.0" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.9" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.7" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.7" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.11" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
